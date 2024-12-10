@@ -1,0 +1,8 @@
+[build]
+  base = "crickfront"
+  publish = "dist/browser"
+  command = "ng build"
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

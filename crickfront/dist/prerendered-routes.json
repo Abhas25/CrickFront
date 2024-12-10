@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/all-matches",
+    "/home",
+    "/live",
+    "/point-table"
+  ]
+}
